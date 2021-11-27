@@ -49,6 +49,18 @@ If you just want to import a particular css file(s) then do this 👇
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Itz-fork/RiceX-Css@latest/RiceX/styles/x_text.css">
 ```
 
+#### For css
+
+```css
+/* RiceX - Buttons */
+@import url("https://cdn.jsdelivr.net/gh/Itz-fork/RiceX-Css@latest/RiceX/styles/x_buttons.css")
+
+/* RiceX - Css Card */
+@import url("https://cdn.jsdelivr.net/gh/Itz-fork/RiceX-Css@latest/RiceX/styles/x_card.css")
+
+/* RiceX - Text styles */
+@import url("https://cdn.jsdelivr.net/gh/Itz-fork/RiceX-Css@latest/RiceX/styles/x_text.css")
+```
 
 # Examples 👷
 
