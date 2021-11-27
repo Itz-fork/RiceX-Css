@@ -7,7 +7,7 @@
 
 # Demo 👀
 
-Check it out [here 👊](https://me.itz-fork.xyz/RiceX)
+Check it out [here 👊](https://me.itz-fork.xyz/RiceX-Css)
 
 
 # Usage 🤔
