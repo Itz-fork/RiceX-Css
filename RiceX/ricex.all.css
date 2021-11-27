@@ -8,3 +8,8 @@ $ Project - RiceX
 @import url("styles/x_text.css");
 @import url("styles/x_buttons.css");
 @import url("styles/x_card.css");
+
+html {
+    scroll-behavior: smooth;
+    background-color: #111720;
+}
