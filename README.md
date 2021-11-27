@@ -18,5 +18,5 @@ Check it out [here 👊](https://me.itz-fork.xyz/RiceX)
 ### For HTMl
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Itz-fork/RiceX@latest/Ricex/ricex.all.css">
+<link rel="stylesheet" href="https://itz-fork.github.io/RiceX-Css/RiceX/ricex.all.css">
 ```
