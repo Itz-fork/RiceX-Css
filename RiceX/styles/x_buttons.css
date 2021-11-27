@@ -1,0 +1,61 @@
+/*
+
+$ Copyright (c) 2021 Itz-fork
+$ Project - RiceX
+
+*/
+
+button {
+    font-family: var(--x-font);
+    color: var(--x-white-text);
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 8px;
+    background-color: var(--x-default-btn);
+    box-shadow: 0 2px 4px 0 var(--x-default-btn-shadow);
+    padding: 0.8em;
+    margin: 0.6em 0.5em;
+    border: none;
+    transition: 0.5s ease-in-out;
+}
+
+button.red {
+    background-color: var(--x-red-btn);
+    box-shadow: 0 2px 4px 0 var(--x-red-btn-shadow);
+}
+
+button.green {
+    color: #111720;
+    background-color: var(--x-green-btn);
+    box-shadow: 0 2px 4px 0 var(--x-green-btn-shadow);
+}
+
+button.white {
+    color: #111720;
+    background-color: var(--x-white-btn);
+    box-shadow: 0 2px 4px 0 var(--x-white-btn-shadow);
+}
+
+button.yellow {
+    color: #111720;
+    background-color: var(--x-yellow-btn);
+    box-shadow: 0 2px 4px 0 var(--x-yellow-btn-shadow);
+}
+
+button.purple {
+    color: #111720;
+    background-color: var(--x-purple-btn);
+    box-shadow: 0 2px 4px 0 var(--x-purple-btn-shadow);
+}
+
+button.blue {
+    color: #111720;
+    background-color: var(--x-blue-btn);
+    box-shadow: 0 2px 4px 0 var(--x-blue-btn-shadow);
+}
+
+button:hover {
+    color: var(--x-white-text);
+    border-radius: 8px;
+    background-color: #434b55;
+}

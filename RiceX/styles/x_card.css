@@ -1,0 +1,23 @@
+/*
+
+$ Copyright (c) 2021 Itz-fork
+$ Project - RiceX
+
+*/
+
+@import url("../main.css");
+
+
+.x-card {
+    border-radius: 10px;
+    background-color: var(--x-dark);
+    box-shadow: 0 2px 4px 0 #61666e;
+    padding: 1rem;
+    margin: 2em 1em;
+    transition: 0.5s ease-in-out;
+
+}
+.x-card:hover {
+    background-color: var(--x-dark-back);
+    box-shadow: 0 2px 4px 0 #bdbdbd;
+}

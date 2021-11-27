@@ -1,0 +1,36 @@
+/*
+
+$ Copyright (c) 2021 Itz-fork
+$ Project - RiceX
+
+*/
+
+:root {
+    /* White colors */
+    --x-white: #e9edf5;
+    --x-white_hover: #ced3cf;
+    --x-white-text: #D8DEE9;
+
+    /* Dark colors */
+    --x-dark: #18202c;
+    --x-dark-back: #202936;
+
+    /* Button colors */
+    --x-default-btn: #1f2936;
+    --x-default-btn-shadow: #61666e;
+    --x-red-btn: #e21818;
+    --x-red-btn-shadow: #e73434;
+    --x-green-btn: #26d451;
+    --x-green-btn-shadow: #3be665;
+    --x-white-btn: #ebedf0;
+    --x-white-btn-shadow: #d3d5da;
+    --x-yellow-btn: #e7f083;
+    --x-yellow-btn-shadow: #f1fa8c;
+    --x-purple-btn: #b388f0;
+    --x-purple-btn-shadow: #bb93f3;
+    --x-blue-btn: #72cbdf;
+    --x-blue-btn-shadow: #82dcf0;
+
+    /* Fonts */
+    --x-font: "Jetbrains Mono";
+}
