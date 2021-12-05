@@ -5,6 +5,9 @@ $ Project - RiceX
 
 */
 
+@import url("../main.css");
+
+
 button {
     font-family: var(--x-font);
     color: var(--x-white-text);
