@@ -3,22 +3,40 @@
 $ Copyright (c) 2021 Itz-fork
 $ Project - RiceX
 
-For now this is available only for input element
+For now this is available only for input (text/number type) element
 */
 
 @import url("../main.css");
 
 
-input {
+form {
+    text-align: center;
+    padding: 1rem 0.5rem ;
+    background-color: var(--x-dark);
+    border-radius: 0.5em;
+}
+
+label {
+    color: var(--x-white);
+    font-family: var(--x-font);
+}
+
+input[type="text"] {
     color: var(--x-white-text);
     background-color: var(--x-dark-back);
     padding: 0.5rem 1rem;
-    border: none;
     border-radius: 0.3em;
+    width: clamp(20em, 75%, 1000em);
+    border: none;
     box-sizing: border-box;
     transition: 0.5s ease-in-out;
+
 }
-input:focus {
+input:focus[type="text"] {
     outline: none;
     box-shadow: 0 1px 2px 1px #7dd5e9;
+}
+.c-input {
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
